@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 </a>    
 <a href="https://www.linkedin.com/in/%ED%83%9C%EC%9C%A4-%EB%85%B8-43943325a/">
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
-</a>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=nty1017)](https://solved.ac/nty1017)
-
+</a>   
+<a href="https://solved.ac/profile/nty1017">
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=nty1017">
+</a>   
 
 <br/>    
 
